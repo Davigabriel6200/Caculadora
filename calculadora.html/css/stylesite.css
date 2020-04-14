@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+}
+
+#Topmenu {
+    display: flex;
+    background-color: gold;
+    margin: 0px;
+}
+
+#Topmenu li {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+
+#topmenu li:first-child {
+    margin-right: auto;
+}
+
+.section1 {
+    display: flex;
+    height: 20vw;
+    background-color: black;
+}
+
+.centralize {
+    margin: auto;
+    text-align: center;
+}
+
+.SECTION2 {
+    display: flex;
+    background-color: white;
+    width: 33vw;
+}
